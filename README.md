@@ -10,13 +10,13 @@ Check out my page [Github Reading Notes](https://ruby0x.github.io/reading-notes/
 
 ## **Growth Mindset**
 
-A growth mindset means believing your abilities can improve throught effort and learning.
+Essentially, adopting a growth mindset is like having a real enthusiasm for learning new things. This outlook can open up new pathways for creativity and possibility, allowing you to aim for and meet higher goals. When you are actively growing, you tend to feel better and get more done. This mindset also encourages you to see the success of colleagues as motivation, rather than feeling threatened by them.
 
 ### <ins>Reminders for myself</ins>
 
-1. Embrace challenges
-2. Learn from mistakes
-3. Complete practicing consistently
+1. Persevere through challenges
+2. Self-reflect; welcome criticism
+3. Build momentum
 
 
 ## Table of Contents
