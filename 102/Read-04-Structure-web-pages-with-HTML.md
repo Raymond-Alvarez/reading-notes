@@ -1,3 +1,5 @@
+# Structure web-pages with HTML
+
 **HTML (HyperText Markup Language)** is a **markup language** and is the most basic building block of the Web. It is used to define the **meaning** and **structure** of web content.
 
    - We use HTML because it applies *“markup”* to annotate text, images, and other content so it can be displayed in a web browser.
