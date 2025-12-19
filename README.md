@@ -18,7 +18,6 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 2. Self-reflect; welcome criticism
 3. Build momentum
 
-
 ## Table of Contents
 
 ### Code 102 Reading Notes: Intro to Software Development
@@ -31,6 +30,20 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 * [Read 6](102/Read-06-Activate-web-pages-with-JavaScript.md)
 * [Read 7](102/Read-07-Programming-with-JavaScript.md)
 * [Read 8](102/Read-08-Operators-and-Loops.md)
+
+### Thoughts and Observations
+
+* [Read 01/102 notes](Thoughts-and-Observations/Read-01-notes.md)
+* [Read 02/102 notes](Thoughts-and-Observations/Read-02-notes.md)
+* [Read 03/102 notes](Thoughts-and-Observations/Read-03-notes.md)
+* [Read 04/102 notes](Thoughts-and-Observations/Read-04-notes.md)
+* [Read 05/102 notes](Thoughts-and-Observations/Read-05-notes.md)
+* [Read 06/102 notes](Thoughts-and-Observations/Read-06-notes.md)
+* [Read 07/102 notes](Thoughts-and-Observations/Read-07-notes.md)
+* [Read 08/102 notes](Thoughts-and-Observations/Read-08-notes.md)
+
+
+
 
 ### Code 201 Reading Notes: Foundations of Software Development
 
