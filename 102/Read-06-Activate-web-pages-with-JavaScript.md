@@ -1,5 +1,6 @@
 # Dynamic web pages with JavaScript
-## Variables
+
+### <u>Variables</u>
 
 **Variables** are basic building blocks of JavaScript. They are used to **store or refer to values** so those values can be used later in a program. For example, a variable can store the value returned from a `prompt()` function after a user enters information.
 
@@ -7,14 +8,14 @@ JavaScript allows variables to be used in flexible ways, including inside **func
 
 ---
 
-## Declaring a variable
+### <u>Declaring a variable</u>
 
 To declare a variable involves using specific keywords listed under JavaScript's statements and declarations, such as `var`, `let`, or `const`. 
 
-For example, a variable named `name` is declared using `let` in the statement 
-```        
-let name = prompt("Your name:", "");
-```
+For example, a variable named `name` is declared using `let` in the statement
+
+- `let name = prompt("Your name:", "");`
+
 In this example:
 
 - `let` declares the variable
@@ -25,14 +26,13 @@ In this example:
 
 ---
 
-## “assignment” operator
+### <u>“assignment” operator</u>
 
 The **assignment operator** is the equals sign (`=`). Its purpose is to assign a value to a variable. This means it connects the value on the right side of the operator to the variable on the left side.
 
 Example:
-```
-    var name = prompt(...);
-```
+
+- `var name = prompt(...);`
 
 Here, the value returned by `prompt()` is assigned to the variable name.
 
@@ -50,7 +50,7 @@ Common examples include:
 
 ---
 
-## Information received from the user
+### <u>Information received from the user</u>
 
 Information entered by a user is referred to as **input**. JavaScript provides built-in functions that allow programs to receive this input and respond to it.
 

@@ -1,8 +1,6 @@
 # The Coder's Computer
 
-## Four important features for in a Text Editor?
-
-
+### <u>Four important features in a Text Editor</u>
 
 - **Code completion** — provides suggestions based on what you type, saving time and reducing typos.
 - **Syntax highlighting** — colorizes code to improve readability and error-spotting.
@@ -11,7 +9,7 @@
 
 ---
 
-## Basic Linux Commands 
+### <u>inux commands and their functions</u>
 
 | Command | Definition / Action |
 |--------|----------------------|
@@ -23,30 +21,30 @@
 
 ---
 
-## Example Commands and Arguments Explained
+### <u>Example Commands</u>
 
-### **`cd projects`**
+### `cd projects`
 
 - `cd` changes directories.
 - `projects` is a **relative path**.
 - Moves into the `projects` directory.
 
-### **`mkdir new-project`**
+### `mkdir new-project`
 
 - `mkdir` creates a new folder.
 - Creates a directory named `new-project` inside `projects`.
 
-### **`touch new-project/newfile.md`**
+### `touch new-project/newfile.md`
 
 - `touch` creates a file or updates its timestamp.
 - Creates `newfile.md` inside `new-project`.
 
-### **`cd ..`**
+### `cd ..`
 
 - `..` refers to the **parent directory**.
 - Moves back one level.
 
-### **`ls projects/new-project`**
+### `ls projects/new-project`
 
 - `ls` lists directory contents.
 - Uses a **relative path**.

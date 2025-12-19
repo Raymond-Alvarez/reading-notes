@@ -1,5 +1,6 @@
 # Programming with JavaScript
-## Control Flow
+
+### <u>Control Flow</u>
 
 **Control flow** refers to the order in which a computer runs the instructions (statements) in a program. Most of the time, code runs **one line at a time from top to bottom**. However, this normal flow can change when the program uses certain structures, such as **conditionals**, **loops**, or **functions**.
 
@@ -7,7 +8,7 @@ Because these structures can change the order in which code runs, you cannot alw
 
 ---
 
-## Functions
+### <u>Functions</u>
 
 A **JavaScript function** is one of the basic building blocks of the language. A function is similar to a procedure or a recipe—it is a group of statements designed to **perform a task** or **calculate a value**.
 
@@ -20,11 +21,10 @@ Functions help organize code, avoid repetition, and make programs easier to read
 
 ---
 
-## Calling (Invoking) a Function
+### <u>Calling (Invoking) a Function</u>
 
 To **invoke** or **call** a function means to **run the code inside the function**. Simply defining a function gives it a name and explains what it should do, but **the code does not run until the function is called**.
 
-For example, if a function named `square` has already been defined, calling it like this:
-```
-    square(5);
-```
+For example, if a function named `square` has already been defined, call it like this:
+
+- `square(5);`

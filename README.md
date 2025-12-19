@@ -30,7 +30,7 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 * [Read 5](102/Read-05-Design-web-pages-with-CSS.md)
 * [Read 6](102/Read-06-Activate-web-pages-with-JavaScript.md)
 * [Read 7](102/Read-07-Programming-with-JavaScript.md)
-* [Read 8](102/Read-08.md)
+* [Read 8](102/Read-08-Operators-and-Loops.md)
 
 ### Code 201 Reading Notes: Foundations of Software Development
 

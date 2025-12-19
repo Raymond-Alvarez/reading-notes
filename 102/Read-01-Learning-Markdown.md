@@ -1,13 +1,13 @@
 # Learning Markdown
 
-## Markdown
+### <u>Markdown</u>
 
 **Markdown** is a lightweight markup language used to add formatting to plain-text documents and has become one of the most widely used markup languages.  
 Markdown uses simple syntax that remains readable even in its plain-text form.
 
 ---
 
-## Why Use Markdown?
+### <u>Why Use Markdown?</u>
 
 - **Portability:** Markdown files can be opened by almost any application and aren’t locked behind proprietary formats.
 - **Platform Independence:** Works on any device or operating system.
@@ -17,38 +17,37 @@ Markdown uses simple syntax that remains readable even in its plain-text form.
 
 ---
 
-## Headings in Markdown
+### <u>Headings in Markdown</u>
 
 To create a heading, add number signs (`#`) before your text.
 
-- **Largest heading:**  
+**Largest heading:**  
 
-      # Heading 1
-    - (one `#`)
+- `# Heading 1`
+  - (one `#`)
 
-- **Smallest heading:** 
+**Smallest heading:**
 
-      ###### Heading 6
-    - (six `#`)
+- `###### Heading 6`
+  - (six `#`)
 
 ---
 
-## Emphasis (Bold & Italics)
+### <u>Emphasis (Bold & Italics)</u>
 
 For maximum compatibility, especially inside words, use **asterisks**, one `*` for *italic* and two `**` for **bold**: 
 
-      *italic text*
+`*italic text*`
 
-  -  *italic text*
+- *italic text*
 
-      
-    **bold text**
+`**bold text**`
   
 - **bold text**
 
 ---
 
-# Links in Markdown
+### <u>Links in Markdown</u>
 
 Use bracketed text followed by the URL in parentheses.
 
@@ -60,7 +59,7 @@ You can add an optional title:
 
 ---
 
-# Unordered Lists
+### <u>Unordered Lists</u>
 
 You can use any of the following symbols:
 
