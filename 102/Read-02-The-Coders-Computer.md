@@ -9,7 +9,7 @@
 
 ---
 
-### <u>inux commands and their functions</u>
+### <u>Linux commands and their functions</u>
 
 | Command | Definition / Action |
 |--------|----------------------|

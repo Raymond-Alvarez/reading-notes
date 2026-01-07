@@ -33,14 +33,14 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 
 ### Thoughts and Observations
 
-* [Read 01/102 notes](Thoughts-and-Observations/Read-01-notes.md)
-* [Read 02/102 notes](Thoughts-and-Observations/Read-02-notes.md)
-* [Read 03/102 notes](Thoughts-and-Observations/Read-03-notes.md)
-* [Read 04/102 notes](Thoughts-and-Observations/Read-04-notes.md)
-* [Read 05/102 notes](Thoughts-and-Observations/Read-05-notes.md)
-* [Read 06/102 notes](Thoughts-and-Observations/Read-06-notes.md)
-* [Read 07/102 notes](Thoughts-and-Observations/Read-07-notes.md)
-* [Read 08/102 notes](Thoughts-and-Observations/Read-08-notes.md)
+* [Read 01/102 notes](Thoughts-and-Observations/1-Read-01-notes.md)
+* [Read 02/102 notes](Thoughts-and-Observations/2-Read-02-notes.md)
+* [Read 03/102 notes](Thoughts-and-Observations/3-Read-03-notes.md)
+* [Read 04/102 notes](Thoughts-and-Observations/4-Read-04-notes.md)
+* [Read 05/102 notes](Thoughts-and-Observations/5-Read-05-notes.md)
+* [Read 06/102 notes](Thoughts-and-Observations/6-Read-06-notes.md)
+* [Read 07/102 notes](Thoughts-and-Observations/7-Read-07-notes.md)
+* [Read 08/102 notes](Thoughts-and-Observations/8-Read-08-notes.md)
 
 
 
