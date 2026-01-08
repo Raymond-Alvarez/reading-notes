@@ -5,7 +5,7 @@ Raymond-Alvarez-2025-2026
 
 ## Hi, I'm Raymond
 
-Check out my page [Github Reading Notes](https://ruby0x.github.io/reading-notes/)
+Check out my page [Github Reading Notes](https://raymond-alvarez.github.io/reading-notes/)
 
 ## **Growth Mindset**
 
@@ -30,17 +30,6 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 * [Read 7](102/Read-07-Programming-with-JavaScript.md)
 * [Read 8](102/Read-08-Operators-and-Loops.md)
 
-### Thoughts and Observations
-
-* [Read 01/102 notes](Thoughts-and-Observations/1-Read-01-notes.md)
-* [Read 02/102 notes](Thoughts-and-Observations/2-Read-02-notes.md)
-* [Read 03/102 notes](Thoughts-and-Observations/3-Read-03-notes.md)
-* [Read 04/102 notes](Thoughts-and-Observations/4-Read-04-notes.md)
-* [Read 05/102 notes](Thoughts-and-Observations/5-Read-05-notes.md)
-* [Read 06/102 notes](Thoughts-and-Observations/6-Read-06-notes.md)
-* [Read 07/102 notes](Thoughts-and-Observations/7-Read-07-notes.md)
-* [Read 08/102 notes](Thoughts-and-Observations/8-Read-08-notes.md)
-
 ### Code 201 Reading Notes: Foundations of Software Development
 
 * [Read 1](.md)
@@ -58,3 +47,18 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 * [Read 13](.md)
 * [Read 14](.md)
 * [Read 15](.md)
+
+### Code 301 - Intermediate Software Development
+
+### Code 401 - Advanced Software Development
+
+### Thoughts and Observations
+
+* [Read 01/102 notes](Thoughts-and-Observations/1-Read-01-notes.md)
+* [Read 02/102 notes](Thoughts-and-Observations/2-Read-02-notes.md)
+* [Read 03/102 notes](Thoughts-and-Observations/3-Read-03-notes.md)
+* [Read 04/102 notes](Thoughts-and-Observations/4-Read-04-notes.md)
+* [Read 05/102 notes](Thoughts-and-Observations/5-Read-05-notes.md)
+* [Read 06/102 notes](Thoughts-and-Observations/6-Read-06-notes.md)
+* [Read 07/102 notes](Thoughts-and-Observations/7-Read-07-notes.md)
+* [Read 08/102 notes](Thoughts-and-Observations/8-Read-08-notes.md)
