@@ -21,17 +21,18 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 
 ### Code 102 Reading Notes: Intro to Software Development
 
-* [Read 1](102/Read-01-Learning-Markdown.md)
-* [Read 2](102/Read-02-The-Coders-Computer.md)
-* [Read 3](102/Read-03-Revisions-and-the-Cloud.md)
-* [Read 4](102/Read-04-Structure-web-pages-with-HTML.md)
-* [Read 5](102/Read-05-Design-web-pages-with-CSS.md)
-* [Read 6](102/Read-06-Activate-web-pages-with-JavaScript.md)
-* [Read 7](102/Read-07-Programming-with-JavaScript.md)
-* [Read 8](102/Read-08-Operators-and-Loops.md)
+* [Read 1](102/Learning-Markdown.md)
+* [Read 2](102/The-Coders-Computer.md)
+* [Read 3](102/Revisions-and-the-Cloud.md)
+* [Read 4](102/Structure-web-pages-with-HTML.md)
+* [Read 5](102/Design-web-pages-with-CSS.md)
+* [Read 6](102/Activate-web-pages-with-JavaScript.md)
+* [Read 7](102/Programming-with-JavaScript.md)
+* [Read 8](102/Operators-and-Loops.md)
 
 ### Code 201 Reading Notes: Foundations of Software Development
 
+* [Prompt Engineering](prompt-engineering.md)
 * [Read 1](.md)
 * [Read 2](.md)
 * [Read 3](.md)
