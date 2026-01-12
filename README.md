@@ -63,3 +63,4 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 * [Read 06/102 notes](Thoughts-and-Observations/6-Read-06-notes.md)
 * [Read 07/102 notes](Thoughts-and-Observations/7-Read-07-notes.md)
 * [Read 08/102 notes](Thoughts-and-Observations/8-Read-08-notes.md)
+* [Professional Competencies](Thoughts-and-Observations/Professional-Competencies.md)
