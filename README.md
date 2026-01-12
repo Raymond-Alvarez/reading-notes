@@ -32,7 +32,7 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 
 ### Code 201 Reading Notes: Foundations of Software Development
 
-* [Prompt Engineering](prompt-engineering.md)
+* [Prompt Engineering](201/prompt-engineering.md)
 * [Read 1](.md)
 * [Read 2](.md)
 * [Read 3](.md)
