@@ -34,7 +34,7 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 
 * [Prompt Engineering](201/prompt-engineering.md)
 * [Read 1](201/class-01.md)
-* [Read 2](.md)
+* [Read 2](201/class-02.md)
 * [Read 3](.md)
 * [Read 4](.md)
 * [Read 5](.md)
