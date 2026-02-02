@@ -6,11 +6,11 @@
 
 1. You should use an **unordered list (`<ul>`)** when you need to group a collection of items that do not require a numerical order and where the specific **sequence of the items is meaningless**.
 
-2. Changing Bullet Styles
+2. **Changing Bullet Styles:**
 The modern and recommended way to change the bullet style of an unordered list is by using the **CSS `list-style-type` property**. 
 
 * **Supported Styles:** Common styles include `disc`, `circle`, and `square`.
- * **Deprecated Method:** While HTML previously used a `type` attribute to define these styles, this attribute is now **deprecated** and should be avoided in favor of CSS.
+* **Deprecated Method:** While HTML previously used a `type` attribute to define these styles, this attribute is now **deprecated** and should be avoided in favor of CSS.
 
 3. **Ordered vs. Unordered Lists**
 
@@ -32,7 +32,8 @@ The modern and recommended way to change the bullet style of an unordered list i
 
 ## Learn CSS
 
-1. **Characters of the Box Model**
+1. **Characters of the Box Model Story
+**
 
     In **“The Box Model,”** every HTML element is viewed as a distinct box, and understanding how its components interact is essential for building layouts.
 
