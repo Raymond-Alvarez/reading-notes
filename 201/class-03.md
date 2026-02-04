@@ -30,7 +30,6 @@
    In CSS, every HTML element is treated as a distinct box. Understanding how its components interact is essential for building layouts.
 
 
-
    * **Padding (The Protective Interior):** The internal cushion between the content and the border. Background colors or images appear behind the padding.
    * **Margin (The Social Distancer):** The invisible barrier outside the border that pushes other boxes away. Margins can be negative and are not part of the box's actual clickable size.
 
