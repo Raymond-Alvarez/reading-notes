@@ -77,12 +77,14 @@ Absolute positioning removes an element from the normal flow, allowing it to sit
 
 ### 2 Benefits to Pair Programming
 
-1. **Greater Efficiency and Higher Code Quality**
+***Greater Efficiency and Higher Code Quality***
+
 * Pairing often results in **higher-quality code** that requires less debugging. Two people focusing on the same code makes it much easier to catch mistakes in real-time.
 
 > **Reflection:** Having a **Navigator** to scan for typos and think big-picture while a **Driver** writes code prevents getting stuck for hours on minor syntax errors, boosting overall confidence.
 
-2. **Learning from Fellow Students**
+***Learning from Fellow Students***
+
 * Pairing exposes you to **different problem-solving approaches**. If you are the more experienced partner, you benefit from **explaining topics in your own words**, which solidifies your knowledge.
 
 > **Reflection:** This transforms coding into a collaborative experience involving listening, speaking, reading, and writing, which prepares you for the professional communication demands of a dev job.
