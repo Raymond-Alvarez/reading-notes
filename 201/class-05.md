@@ -18,12 +18,13 @@ The `<figure>` element is your go-to tool whenever you have a piece of content t
 * A **GIF** is like a small, digital flipbook. It has been used for decades to show simple animations or short clips. It only uses a limited set of colors, which is why it’s great for simple memes but not for high-quality photos. 
 * An **SVG** is more like a **set of drawing instructions**. Instead of storing a picture made of tiny dots, it stores commands that tell the computer how to draw lines and shapes. Because it is based on these instructions, you can make an SVG as big as a house or as small as a postage stamp, and it will always look **perfectly crisp and sharp**.
 **
+
 ### **Screenshot image type**
  For a **screenshot**, you should use **PNG** or **lossless WebP**. You should choose these **lossless formats** because screenshots often contain text; if you use a "lossy" format that throws away data to save space, that **text can become fuzzy and hard to read**.
 
- # Color and Styling
+# Color and Styling
 
- ### **Difference between foreground and background colors**
+### **Difference between foreground and background colors**
  
 Think of the foreground as the actual "ink" used to write the words or draw shapes, while the background is the "paper" or surface those words are sitting on. In a website, the foreground color usually refers to the text itself, and the background color is the shade filling the space behind that text.
 
