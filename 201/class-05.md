@@ -1,4 +1,4 @@
-# Using Images In HTML
+## **Using Images In HTML**
 
 ### **`alt attribute`**
  A real-world use case for the **alt attribute** shown in the sources is providing a text description for a complex image, such as a **"Diagram showing the data channels,"** so the information remains available if the image cannot be displayed.
@@ -22,10 +22,10 @@ The `<figure>` element is your go-to tool whenever you have a piece of content t
 ### **Screenshot image type**
  For a **screenshot**, you should use **PNG** or **lossless WebP**. You should choose these **lossless formats** because screenshots often contain text; if you use a "lossy" format that throws away data to save space, that **text can become fuzzy and hard to read**.
 
-# Color and Styling
+## **Color and Styling**
 
 ### **Difference between foreground and background colors**
- 
+
 Think of the foreground as the actual "ink" used to write the words or draw shapes, while the background is the "paper" or surface those words are sitting on. In a website, the foreground color usually refers to the text itself, and the background color is the shade filling the space behind that text.
 
 ### **Use color to add character**
