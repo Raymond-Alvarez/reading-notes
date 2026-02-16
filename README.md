@@ -38,7 +38,7 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 * [Read 3](201/class-03.md)
 * [Read 4](201/class-04.md)
 * [Read 5](201/class-05.md)
-* [Read 6](.md)
+* [Read 6](201/class-06.md)
 * [Read 7](.md)
 * [Read 8](.md)
 * [Read 9](.md)
