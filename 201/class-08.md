@@ -16,4 +16,6 @@
 * **Flexible Sizing:** You can easily make children take up an **equal amount of available space** or distribute space around them using properties like `justify-content`.
 * **Visual Reordering:** Flexbox allows you to **change the display order** of elements without modifying the HTML, a task that is nearly impossible with floats.
 
-2. Regarding how this topic connects with your **long-term goals**, **the provided sources do not contain information about your personal objectives**. However, mastering flexbox is a core part of the "Learn CSS" and "Frontend Developer" tracks mentioned in the documentation, which are essential for building modern, responsive websites.
+2. **How this topic connects with my long term goals?**
+
+* Fostering a quality user-experience and creating a UI that offers that are target goals. 
