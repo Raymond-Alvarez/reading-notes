@@ -27,6 +27,7 @@
 Events are **signals fired by the browser** when something significant happens on a webpage—like a user clicking a button, typing a key, or a page finishing its load. You can write code that "listens" for these signals so the website can **automatically react** with a specific action.
 
 **2. When using the `addEventListener()` method, what 2 arguments will you need to provide?**
+
 *   **The event name:** A string indicating the specific event you want to listen for, such as **"click"** or **"keydown"**.
 *   **The handler function:** The block of code or **function** that should run when the event occurs.
 
@@ -34,9 +35,7 @@ Events are **signals fired by the browser** when something significant happens o
 
 The **event object** is a parameter automatically passed to event handlers that contains **extra features and information** about the event. The **`target` property** within this object is a reference to the **specific element** the event happened on. This is useful because it allows you to dynamically manipulate the exact element the user interacted with, such as changing the color of the specific button that was clicked.
 
-**4. What is the difference between event bubbling and event capturing?**
-
-### Event Bubbling vs. Event Capturing
+**4.** **Event bubbling** vs. **Event Capturing**
 
 The primary difference between these two concepts is the **direction** in which the event travels through the DOM. 
 
