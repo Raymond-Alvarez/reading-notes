@@ -15,6 +15,7 @@
 ### **Chart.js Documentation**
 
 1.  **What is Chart.js and how it can be brought into your project?**
+
     Chart.js is an **open-source JavaScript library** used for creating various types of charts; it is currently the most popular library of its kind based on GitHub stars and npm downloads. To bring it into a project, you can **download the library**, copy the `Chart.min.js` file into your project directory, and then **import the script** into your HTML page. It is also compatible with popular frameworks like React, Vue, Svelte, and Angular.
 
 2.  **3 different Chart types using Chart.js.**
