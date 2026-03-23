@@ -46,7 +46,7 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 * [Read 11](201/class-11.md)
 * [Read 12](201/class-12.md)
 * [Read 13](201/class-13.md)
-* [Read 14](.md)
+* [Read 14](201/class-14.md)
 * [Read 15](.md)
 
 ### Code 301 - Intermediate Software Development
