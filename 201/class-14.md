@@ -31,14 +31,13 @@
     Mastering these CSS3 techniques is a foundational step toward becoming a professional **web designer or front-end developer**. Learning to create these interactions is part of moving from basic wireframes to **building successful websites that turn "practice into profit"**. These skills are essential for anyone following a career path in front-end development, which involves creating sophisticated UI/UX experiences.
 
 
-    Based on the provided sources, here are the answers to your questions regarding the "Quest to Build the Perfect Team":
+   ## Psychological Safety
 
 ### 1. Three Key Factors Contributing to Psychologically Safe Teams
 
-According to the research conducted by Google’s Project Aristotle and various academic studies, three essential factors contribute to a psychologically safe team environment:
+Three essential factors contribute to a psychologically safe team environment:
 
-*   **Equality in Distribution of Conversational Turn-Taking**: 
-
+*   **Equality in Distribution of Conversational Turn-Taking**:
 On highly effective teams, members speak in roughly the same proportion over the course of the day. When everyone has a chance to talk, the collective intelligence of the team thrives; however, if only one person or a small group dominates the conversation, collective intelligence declines.
 
 *   **High Average Social Sensitivity**: Successful teams are composed of individuals who are skilled at **intuiting how others feel** based on nonverbal cues, such as tone of voice and facial expressions. This allows members to recognize when a colleague is feeling upset, left out, or guarded.
