@@ -21,7 +21,7 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 
 ### Code 102 Reading Notes: Intro to Software Development
 
-* [Read 1](102/Learning-Markdown.md)
+* [Read 1](Code 102 - Intro to Software Development.md/Learning-Markdown.md)
 * [Read 2](102/The-Coders-Computer.md)
 * [Read 3](102/Revisions-and-the-Cloud.md)
 * [Read 4](102/Structure-web-pages-with-HTML.md)
@@ -50,6 +50,21 @@ Essentially, adopting a growth mindset is like having a real enthusiasm for lear
 * [Read 15](.md)
 
 ### Code 301 - Intermediate Software Development
+* [Read 1](301/class-01.md)
+* [Read 2](301/class-01.md)
+* [Read 3](301/class-01.md)
+* [Read 4](301/class-01.md)
+* [Read 5](301/class-01.md)
+* [Read 6](301/class-01.md)
+* [Read 7](301/class-01.md)
+* [Read 8](301/class-01.md)
+* [Read 9](301/class-01.md)
+* [Read 10](301/class-01.md)
+* [Read 11](301/class-01.md)
+* [Read 12](301/class-01.md)
+* [Read 13](301/class-01.md)
+* [Read 14](301/class-01.md)
+* [Read 15](301/class-01.md)
 
 ### Code 401 - Advanced Software Development
 

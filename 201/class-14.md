@@ -31,9 +31,9 @@
     Mastering these CSS3 techniques is a foundational step toward becoming a professional **web designer or front-end developer**. Learning to create these interactions is part of moving from basic wireframes to **building successful websites that turn "practice into profit"**. These skills are essential for anyone following a career path in front-end development, which involves creating sophisticated UI/UX experiences.
 
 
-   ## Psychological Safety
+## Psychological Safety
 
-### 1. Three Key Factors Contributing to Psychologically Safe Teams
+### Three Key Factors Contributing to Psychologically Safe Teams
 
 Three essential factors contribute to a psychologically safe team environment:
 
@@ -44,13 +44,13 @@ On highly effective teams, members speak in roughly the same proportion over the
 
 *   **Interpersonal Trust and Mutual Respect**: Psychological safety is defined as a "shared belief held by members of a team that the team is safe for interpersonal risk-taking". It creates a climate where people are **comfortable being themselves** and have confidence that they will not be rejected or punished for speaking up or making mistakes.
 
-### 2. Evaluation of a Professional Setting Regarding Psychological Safety
+### Evaluation of a Professional Setting Regarding Psychological Safety
 
 
 *   **The Yale Study Group (Low Psychological Safety)**: Despite being composed of smart, curious people with similar backgrounds, this team was a source of stress. The group’s **norms** involved "jockeying for the leadership position," criticizing ideas, and "talking over each other" to show authority. Because of these behaviors, Rozovsky felt she had to be "careful not to make mistakes" and constantly prove herself, leading to a team that felt "fraught" and "exhausting".
 *   **The Case-Competition Team (High Psychological Safety)**: This team consisted of people with disparate professional backgrounds who prioritized **social bonding**. They spent time chatting and emailing jokes, which established a norm where everyone "felt like we could say anything to each other" without fear of judgment. This allowed for "crazy" brainstorming and a sense of being "relaxed and energized," ultimately leading to them winning their competition.
 
-### 3. Impact of High Psychological Safety
+### Impact of High Psychological Safety
 
 Teams that operate with a high degree of psychological safety provide significant benefits to both the organization and the individual team members:
 

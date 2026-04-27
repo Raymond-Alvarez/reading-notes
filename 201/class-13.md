@@ -5,7 +5,7 @@
 Developers use local storage primarily to **add "state" to the web**, overcoming the fact that HTTP is a stateless protocol where closing an application typically resets its data. Key reasons include:
 * **Maintaining Interface State:** It allows a developer to save the state of an interface (like form inputs or widget configurations) so it can be restored when the user returns, without requiring the user to create an account or sign in,.
 * **Caching Web Service Data:** It is highly effective for caching data from APIs that take a long time to load or have strict call limits,. By storing this data locally, subsequent visits are much faster, and the application can still display information even if an API call fails,.
-***Superiority Over Cookies:** Local storage is a more modern solution than cookies, which are limited to only 4 KB of data and add to the loading weight of every document accessed on a domain.
+* **Superiority Over Cookies:** Local storage is a more modern solution than cookies, which are limited to only 4 KB of data and add to the loading weight of every document accessed on a domain.
 
 **2. What information should not be stored in local storage?**
 
